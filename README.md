@@ -1,6 +1,8 @@
-# Coterios
+# About Coterios
 
-This is an IOS tweak of the maniacal part that some people might find fascinating!
+This is an IOS tweak of the maniacal part that some people might find fascinating
+
+
 
 # icon and screenshots
 
